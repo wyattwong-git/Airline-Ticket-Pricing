@@ -1,6 +1,7 @@
 ipykernel
+openpyxl
 pandas
 numpy
 matplotlib
 seaborn
-leafmap
+statsmodels
