@@ -1,5 +1,6 @@
 ipykernel
 openpyxl
+os
 pandas
 numpy
 matplotlib
